@@ -1,10 +1,10 @@
 - 👋 Hi, I’m ahmed sameir
 - 👀 I’m interested in Content writing
 - 🌱 I’m currently learning SEO Effective Content Writing
-- 🌍 Please Visit My profile <a href="https://www.egyptcivilizations.com/2022/06/egypt.html" title="Ahmed Samir">Ahmed Samir
-- ✨ <a href="https://www.egyptcivilizations.com/2022/06/RAMSESII.html" title="post title"> RAMSES II</a>
-- 🚀 <a href="https://www.egyptcivilizations.com/2022/06/tutankhamun.html" title="post title"> Tutankhamun </a>
-- 🙌 <a href="https://www.egyptcivilizations.com/2022/06/the-mystery-of-tutankhamuns-death.html" title="post title"> The mystery of Tutankhamun's death </a>
+- 🌍 Please Visit My profile <a href="https://www.ghsmm.com/" title="Ahmed Samir">Ahmed Samir
+- ✨ <a href="https://ghsmm.com/4-tips-for-mastering-your-finances/" title="post title"> 4-tips-for-mastering-your-finances</a>
+- 🚀 <a href="https://ghsmm.com/need-to-make-cash-from-house-right-here-are-17-of-the-finest-on-line-jobs/" title="post title"> need-to-make-cash-from-house-right-here-are-17-of-the-finest-on-line-jobs </a>
+- 🙌 <a href="https://ghsmm.com/become-a-freelancer/" title="post title"> become-a-freelancer </a>
 
 <p>seo expert</p>
   
