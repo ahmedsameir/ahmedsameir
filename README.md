@@ -6,7 +6,7 @@
 - 🚀 <a href="https://ghsmm.com/need-to-make-cash-from-house-right-here-are-17-of-the-finest-on-line-jobs/" title="post title"> need-to-make-cash-from-house-right-here-are-17-of-the-finest-on-line-jobs </a>
 - 🙌 <a href="https://ghsmm.com/become-a-freelancer/" title="post title"> become-a-freelancer </a>
 
-<p>seo expert</p>
+<p>SEO Expert & Digital marketing consultant</p>
   
 <!---
 ahmedsameir/ahmedsameir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
