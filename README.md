@@ -12,7 +12,7 @@ Software development lifecycle (SDLC)
 Cloud platforms: AWS, Azure, Google Cloud
 Debugging, testing, and problem-solving
 Mobile development: iOS, Android, Flutter
-Soft Skills:
+## Soft Skills:
 Analytical thinking
 Attention to detail
 Logical reasoning
@@ -29,7 +29,7 @@ Email marketing campaigns
 Marketing analytics & Google Analytics
 Brand strategy & positioning
 Customer segmentation & targeting
-Soft Skills:
+## Soft Skills:
 Creativity and innovation
 Communication skills
 Strategic thinking
@@ -45,7 +45,7 @@ Conversion tracking & attribution
 Data analysis & reporting
 A/B testing for campaigns
 Understanding KPIs (CTR, CPM, CPA, ROAS)
-Soft Skills:
+## Soft Skills:
 Negotiation skills
 Analytical mindset
 Attention to ROI
