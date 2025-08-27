@@ -2,6 +2,57 @@
 - 👀 I’m interested in Digital Marketing & SEO and Media Buying
   
 <p>SEO Expert & Digital marketing consultant</p>
+Programmer Skills
+
+## Technical Skills:
+## Programming languages: Python, Java, C++, JavaScript, Ruby, PHP
+Web development: HTML, CSS, React, Node.js, Angular, Vue.js
+Database management: SQL, MongoDB, PostgreSQL
+Version control: Git, GitHub, GitLab
+API integration and development
+Software development lifecycle (SDLC)
+Cloud platforms: AWS, Azure, Google Cloud
+Debugging, testing, and problem-solving
+Mobile development: iOS, Android, Flutter
+Soft Skills:
+Analytical thinking
+Attention to detail
+Logical reasoning
+Collaboration and teamwork
+Time management
+
+## Marketing Skills:
+## Digital Marketing:
+SEO (Search Engine Optimization)
+SEM (Search Engine Marketing) & PPC campaigns
+Content marketing & copywriting
+Social media marketing (Facebook, Instagram, LinkedIn, TikTok)
+Email marketing campaigns
+Marketing analytics & Google Analytics
+Brand strategy & positioning
+Customer segmentation & targeting
+Soft Skills:
+Creativity and innovation
+Communication skills
+Strategic thinking
+Data-driven decision making
+Adaptability and flexibility
+
+## Media Buying Skills
+## Technical & Analytical Skills:
+Ad platform expertise: Facebook Ads Manager, Google Ads, TikTok Ads, LinkedIn Ads
+Campaign creation, targeting, and optimization
+Budget management and bid strategies
+Conversion tracking & attribution
+Data analysis & reporting
+A/B testing for campaigns
+Understanding KPIs (CTR, CPM, CPA, ROAS)
+Soft Skills:
+Negotiation skills
+Analytical mindset
+Attention to ROI
+Strategic planning
+Adaptability to changing algorithms and trends
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ahmed.sameir.mo1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmedsamir.mo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedsamirmo/) 
