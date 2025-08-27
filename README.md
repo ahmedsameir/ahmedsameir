@@ -1,6 +1,8 @@
 # Hey 👋 I'm Eng.Ahmed Samir
 Bachelor's degree from Computer Science, AUC
 
+Bachelor's degree from Business Management, AUC
+
 **Digital Marketing Consultant & Programmer**
 
 ---
