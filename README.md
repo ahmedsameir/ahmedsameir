@@ -1,4 +1,5 @@
-# Hey 👋 I'm Eng.Ahmed Samir  
+# Hey 👋 I'm Eng.Ahmed Samir
+Bachelor's degree from Computer Science, The American University in Cairo
 **Digital Marketing Consultant & Programmer**
 
 ---
