@@ -1,9 +1,7 @@
-- Hey 👋 What's up?, I’m Ahmed Samir
-- 👀 I’m interested in Digital Marketing & SEO and Media Buying
-  
-<p>SEO Expert & Digital marketing consultant</p>
-Programmer Skills
+- Hey 👋 What's up?, I’m Ahmed Samir  
+<p>Digital marketing consultant</p>
 
+## Programmer Skills
 ## Technical Skills:
 ## Programming languages: Python, Java, C++, JavaScript, Ruby, PHP
 Web development: HTML, CSS, React, Node.js, Angular, Vue.js
