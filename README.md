@@ -81,8 +81,6 @@
 
 ---
 
----
-
 ## 💬 Let's Connect!
 Feel free to reach out if you want to collaborate or just say hi!  
 I'm always open to new opportunities, ideas, and collaborations.  
@@ -93,8 +91,7 @@ I'm always open to new opportunities, ideas, and collaborations.
 ### 🚀 Keep in Touch
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/ahmedsameir)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedsamirmo/)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/)  
-
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?logo=facebook&logoColor=white)](https://facebook.com/ahmed.sameir.mo1)
 
 ⭐ If you like my work, consider giving this repo a star!  
 
